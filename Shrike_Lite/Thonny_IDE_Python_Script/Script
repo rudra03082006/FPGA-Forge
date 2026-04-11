@@ -1,2 +1,5 @@
 import Shrike
 Shrike.flash("FPGA_bitstream_MCU.bin")
+
+
+**type the exact name of the bitstream file in the Shrike.flash() attribute.
