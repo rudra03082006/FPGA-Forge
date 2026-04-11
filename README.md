@@ -7,4 +7,5 @@ FPGA Forge is a hands-on workshop organized by IEEE focused on FPGA development 
 - Verilog examples
 - FPGA project files
 - Hardware setup guides
+- Software setup guides
 - Workshop slides
