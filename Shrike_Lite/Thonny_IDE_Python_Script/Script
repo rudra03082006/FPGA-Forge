@@ -1,0 +1,2 @@
+import Shrike
+Shrike.flash("FPGA_bitstream_MCU.bin")
